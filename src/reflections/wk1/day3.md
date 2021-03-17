@@ -1,4 +1,6 @@
-# Daily Journal
+# Day3 - Building With Bootstrap
+
+## Daily Journal
 Read Building Blocks Of Web Development > Cheating At Design and answer the following questions
 ## 1. What is your favorite tip that you think is the most beneficial to improving your design?
     I really like the use fewer borders idea, my code in the past as had a habit of using borders. So the idea of using shadows sounds like a good way of accomplishing that.

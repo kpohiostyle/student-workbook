@@ -1,4 +1,6 @@
-# Daily Journal
+# Day4 - Wire-Framing, Design Tools And Review
+
+## Daily Journal
 Read Building Blocks Of Web Development > Wire-framing: A Comprehensive Guide and answer the following questions
 ## 1. What is the purpose of wire-framing?
 
