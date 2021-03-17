@@ -56,17 +56,17 @@ body
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul, ol, dl
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The flex property defines how the page format is displayed. Instead of the default block format. Essentially creating the ability to create columns, instead of rows.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+border, margin, padding, width, height
 ```
