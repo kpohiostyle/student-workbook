@@ -12,4 +12,7 @@ Read Building Blocks Of Web Development > Cheating At Design and answer the foll
 ## 3. How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
     It can show focus on the main actions of a page without being busy or cluddered. It should be pleasing to the user like not having extreme colors or to many colors. Good design can reduce some of these negative attributes.
 
+## Afternoon Challenge
+    https://github.com/kpohiostyle/clonesite
+
 <!-- https://material.io/guidelines/material-design/elevation-shadows.html gave a 404 error when trying to open -->
