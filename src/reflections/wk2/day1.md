@@ -11,3 +11,7 @@ Read Intro to JS > Var, let and const and answer the following questions
 
 ## In what cases might you use let vs const vs var?
     Uses of let would be used inside a block of code where a variable could be changed. Whereas const is a variable that is never changed by other code. We can only change the contents of a constant object. You would use var in cases where you would need a global variable or a function variable.
+
+## Afternoon Challenge
+
+    https://kpohiostyle.github.io/js-tests-basics/

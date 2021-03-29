@@ -13,3 +13,6 @@ Read Intro to JS > JavaScript Functions and answer the following questions
     Arguments are passed into the definition of the function and the paramaters are created in the function definition.
 
 ## What are higher order functions? Can you provide an example?
+    These are functions that work on other functions, by either returning them or taking them in as arguments
+## Afternoon Challenge
+    https://kpohiostyle.github.io/js-tests-loops-and-arrays/
