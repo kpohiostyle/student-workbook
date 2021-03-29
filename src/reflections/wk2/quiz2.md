@@ -32,7 +32,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+you.concat(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -65,10 +65,10 @@ undefined, boolean, number, string, bigint, symbol, object, function, null
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+  a parameter is part of the function definition and an agruement is passed to the function when it is invoked
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+  a primitive is like num or boolean and reference is like object or array
 ```

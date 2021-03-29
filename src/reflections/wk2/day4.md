@@ -12,3 +12,6 @@ Read Intro to JS > The Mistakes I Made As a Beginner Programmer and answer the f
 
 ## From the entire article what are your biggest takeaways?
     This article was scary, since i am a newbie I felt like i hit every single one of these catergories. It makes me nervous that I still have to far of a journey to be valuble to a company.
+
+## Afternoon partner project
+    https://veronicablake.github.io/slapa-game/
