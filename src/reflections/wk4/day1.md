@@ -1,4 +1,5 @@
 # Day 1 - INTRO TO Asynchronous Code
+
 ## Daily Journal
 Read Asynchronous Code > Callback Hell and answer the following questions
 ## What are some of the signs and causes of Callback Hell?
@@ -12,3 +13,4 @@ Read Asynchronous Code > Callback Hell and answer the following questions
 ## Complete Week 4 Vocabulary
 
 ## Afternoon Challenge
+    https://kpohiostyle.github.io/trivia-db/
