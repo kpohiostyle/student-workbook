@@ -3,12 +3,12 @@
 **1.** What is the package.json file used for?
 <!-- enter you answer in the space below -->
 ```
-
+It stores all required dependency references that your app will require to function.
 ``` 
 **2.** At what level of your project do you need package.json when deploying your application? Why?
 <!-- enter you answer in the space below -->
 ```
-
+At the very beginning, when ensuring that your project has actually *installed* all required dependencies.
 ```
 **3.** What command will ensure that your Vue code is compiled properly for deployment?
 <!-- enter you answer in the space below -->
