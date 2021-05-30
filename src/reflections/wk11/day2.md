@@ -44,3 +44,5 @@ CREATE TABLE doctor_patients (
     WHERE
     dp.doctorId = @id
 
+## Afternoon Challenge
+  https://github.com/kpohiostyle/contracted
